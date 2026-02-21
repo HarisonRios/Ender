@@ -16,7 +16,7 @@ export function MobileReportButton() {
         <SheetTrigger asChild>
           <Button
             size="lg"
-            className="fixed bottom-6 right-6 z-30 h-14 w-14 rounded-full shadow-lg"
+            className="fixed bottom-6 right-6 z-[2500] h-14 w-14 rounded-full shadow-lg"
           >
             <Plus className="w-6 h-6" />
           </Button>

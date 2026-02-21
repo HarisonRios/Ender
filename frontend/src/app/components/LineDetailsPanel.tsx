@@ -48,12 +48,12 @@ export function LineDetailsPanel({ line, onClose }: LineDetailsPanelProps) {
     <>
       {/* Overlay for mobile */}
       <div
-        className="fixed inset-0 bg-black/20 z-30 lg:hidden"
+        className="fixed inset-0 bg-black/20 z-[3000] lg:hidden"
         onClick={onClose}
       />
 
       {/* Panel */}
-      <div className="fixed right-0 top-0 h-full w-full sm:w-96 bg-white shadow-2xl z-40 overflow-y-auto">
+      <div className="fixed right-0 top-0 h-full w-full sm:w-96 bg-white shadow-2xl z-[3500] overflow-y-auto">
         {/* Header */}
         <div
           className="p-4 border-b sticky top-0 bg-white z-10"
