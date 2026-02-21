@@ -59,29 +59,13 @@ Fornecer transparência e informações precisas sobre o transporte metroferrovi
 
 ### Stack Tecnológica
 
-#### Frontend
-- **Framework**: React 18.3.1 com TypeScript
-- **Build Tool**: Vite 6.3.5
-- **Roteamento**: React Router 7
-- **UI Components**: 
-  - Radix UI (componentes acessíveis)
-  - Tailwind CSS 4.1.12
-  - Framer Motion (animações)
-  - Recharts (gráficos)
-- **Estilização**: Poppins (fonte personalizada)
+**Frontend**: React • TypeScript • Vite • Tailwind CSS
 
-#### Backend (Em desenvolvimento)
-- **Framework**: NestJS
-- **Linguagem**: TypeScript
-- **Banco de Dados**: MySQL
-- **ORM**: TypeORM ou Prisma
-- **Validação**: class-validator
+**Backend**: NestJS • MySQL • TypeScript
 
-#### Fontes de Dados
-- API Metrô de São Paulo
-- API CPTM
-- APIs ViaQuatro, ViaMobilidade, TickTrens
-- Relatos de usuários (crowdsourcing)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,nestjs,mysql" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -247,18 +231,6 @@ Ender/
 
 ---
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Este é um projeto de código aberto e tecnologia cívica.
-
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
-
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -271,27 +243,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-## 📧 Contato
-
-Para dúvidas, sugestões ou parcerias:
-- Email: contato@ender.com.br
-- Website: [ender.com.br](https://ender.com.br)
-
----
-
-## 🙏 Agradecimentos
-
-- Metrô de São Paulo
-- CPTM
-- ViaQuatro
-- ViaMobilidade
-- TickTrens
-- Comunidade open source
-
----
-
 <div align="center">
-  Feito com ❤️ para melhorar a mobilidade urbana de São Paulo
   
   **Ender - Transparência sobre trilhos**
 </div>
